@@ -35,5 +35,5 @@ class PromotionTimer {
 
 new PromotionTimer({
   selector: "#timer-1",
-  targetDate: new Date("Oct 03, 2020, 07:00"),
+  targetDate: new Date("Dec 31, 2021, 00:00"),
 }).init();
